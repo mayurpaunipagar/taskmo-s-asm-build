@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="212" viewBox="0 0 412 212">
+  <g id="Group_39089" data-name="Group 39089" transform="translate(-800 -653.308)">
+    <rect id="Rectangle_13033" data-name="Rectangle 13033" width="412" height="212" rx="10" transform="translate(800 653.308)" fill="#5fccf4"/>
+    <rect id="Rectangle_13870" data-name="Rectangle 13870" width="112.987" height="112.368" rx="5" transform="translate(1138.889 659.497) rotate(90)" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+    <rect id="Rectangle_13871" data-name="Rectangle 13871" width="112.987" height="95.198" rx="5" transform="translate(1195.719 698) rotate(90)" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+    <rect id="Rectangle_13869" data-name="Rectangle 13869" width="112.987" height="112.368" rx="5" transform="translate(1152.705 747.007) rotate(90)" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+    <g id="Group_39085" data-name="Group 39085">
+      <path id="Path_42865" data-name="Path 42865" d="M5.035,0H160.129c2.781,0,5.035,2.777,5.035,6.2V69.477c0,3.426-2.254,6.2-5.035,6.2H5.035C2.254,75.68,0,72.9,0,69.477V6.2C0,2.777,2.254,0,5.035,0Z" transform="translate(826 744.577)" fill="#43b2db"/>
+      <line id="Line_328" data-name="Line 328" y2="44.216" transform="translate(906 762.577)" fill="none" stroke="#e0e0e0" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
